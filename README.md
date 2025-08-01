@@ -23,13 +23,6 @@ A terminal-driven **Command-Line Interface (CLI)** based **Text Summarisation To
 
 ---
 
-## 📊 System Flowchart
-A detailed flowchart representing the end-to-end **Summarisation Workflow**, showcasing user input handling, model interaction, and result display in CLI format:
-
-![Ruthless Summariser Flowchart](ruthless_summariser_flowchart.png)
-
----
-
 ## 📌 Use-Case Scenarios
 - **Technical Report Summarisation**: Condense detailed reports into precise executive summaries.
 - **Content Editing Teams**: Rapidly reduce content for meta-descriptions or publication briefs.
